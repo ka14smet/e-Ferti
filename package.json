@@ -1,0 +1,19 @@
+{
+  "name": "e-ferti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ka14smet/e-Ferti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ka14smet/e-Ferti/issues"
+  },
+  "homepage": "https://github.com/ka14smet/e-Ferti#readme"
+}
